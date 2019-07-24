@@ -688,24 +688,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alex\\.nuget\\packages\\": {},
+    "C:\\Users\\zilva\\.nuget\\packages\\": {},
+    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\SharpDice\\SharpDice\\SharpDice\\SharpDice.csproj",
+      "projectUniqueName": "C:\\Users\\zilva\\Documents\\GitHub\\SharpDice\\SharpDice\\SharpDice.csproj",
       "projectName": "SharpDice",
-      "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\SharpDice\\SharpDice\\SharpDice\\SharpDice.csproj",
-      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\SharpDice\\SharpDice\\SharpDice\\obj\\",
+      "projectPath": "C:\\Users\\zilva\\Documents\\GitHub\\SharpDice\\SharpDice\\SharpDice.csproj",
+      "packagesPath": "C:\\Users\\zilva\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zilva\\Documents\\GitHub\\SharpDice\\SharpDice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\ProgramData\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\zilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

@@ -6,7 +6,7 @@ namespace SharpDice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Main program where you will pick the dice to be rolled.
         }
     }
 }

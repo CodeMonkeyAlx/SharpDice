@@ -1,0 +1,11 @@
+C:\Users\zilva\Documents\GitHub\SharpDice\SharpDice\bin\Debug\netcoreapp2.1\SharpDice.deps.json
+C:\Users\zilva\Documents\GitHub\SharpDice\SharpDice\bin\Debug\netcoreapp2.1\SharpDice.runtimeconfig.json
+C:\Users\zilva\Documents\GitHub\SharpDice\SharpDice\bin\Debug\netcoreapp2.1\SharpDice.runtimeconfig.dev.json
+C:\Users\zilva\Documents\GitHub\SharpDice\SharpDice\bin\Debug\netcoreapp2.1\SharpDice.dll
+C:\Users\zilva\Documents\GitHub\SharpDice\SharpDice\bin\Debug\netcoreapp2.1\SharpDice.pdb
+C:\Users\zilva\Documents\GitHub\SharpDice\SharpDice\obj\Debug\netcoreapp2.1\SharpDice.csprojAssemblyReference.cache
+C:\Users\zilva\Documents\GitHub\SharpDice\SharpDice\obj\Debug\netcoreapp2.1\SharpDice.csproj.CoreCompileInputs.cache
+C:\Users\zilva\Documents\GitHub\SharpDice\SharpDice\obj\Debug\netcoreapp2.1\SharpDice.AssemblyInfoInputs.cache
+C:\Users\zilva\Documents\GitHub\SharpDice\SharpDice\obj\Debug\netcoreapp2.1\SharpDice.AssemblyInfo.cs
+C:\Users\zilva\Documents\GitHub\SharpDice\SharpDice\obj\Debug\netcoreapp2.1\SharpDice.dll
+C:\Users\zilva\Documents\GitHub\SharpDice\SharpDice\obj\Debug\netcoreapp2.1\SharpDice.pdb
